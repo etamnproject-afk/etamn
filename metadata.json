@@ -1,0 +1,6 @@
+{
+  "name": "اطمن",
+  "description": "تطبيق ذكي ومطمئن لمرضى الأورام للاستعلام عن حالة وتحديثات العلاج في المستشفى",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
